@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/kr.hs.dukyoung.DYApp/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/kr.hs.dukyoung.DYApp/app/src/main/res/layout/activity_main_view.xml" value="0.17916666666666667" />
+        <entry key="..\:/kr.hs.dukyoung.DYApp/app/src/main/res/layout/class_popup_window.xml" value="0.17916666666666667" />
+        <entry key="..\:/kr.hs.dukyoung.DYApp/app/src/main/res/layout/list_tile.xml" value="0.17916666666666667" />
+        <entry key="..\:/kr.hs.dukyoung.DYApp/app/src/main/res/layout/main_activity.xml" value="0.22" />
+        <entry key="..\:/kr.hs.dukyoung.DYApp/app/src/main/res/layout/notice_list.xml" value="0.17916666666666667" />
+        <entry key="..\:/kr.hs.dukyoung.DYApp/app/src/main/res/layout/number_popup_window.xml" value="0.16666666666666666" />
+        <entry key="..\:/kr.hs.dukyoung.DYApp/app/src/main/res/layout/popup_window.xml" value="0.17916666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
